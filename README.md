@@ -13,3 +13,5 @@ Primeiramente tive que mudar a porta da aplicação, criando o arquivo `applicat
 ```
 server.port=8081
 ```
+
+Aqui vou versionar só a demonstração da DIO, não a resolução do desafio.
