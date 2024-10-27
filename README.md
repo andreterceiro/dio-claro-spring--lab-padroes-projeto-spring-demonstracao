@@ -15,3 +15,5 @@ server.port=8081
 ```
 
 Aqui vou versionar só a demonstração da DIO, não a resolução do desafio.
+
+A resolução do desafio estará [neste repositório](https://github.com/andreterceiro/dio-lab-padroes-projeto-resolucao-desafio).
